@@ -2,7 +2,7 @@
 
 pkgname=displaylink
 pkgver=1.1.62
-pkgrel=2
+pkgrel=3
 evdiver=1.2.55
 pkgdesc="DisplayLink DL-5xxx, DL-41xx and DL-3x00 Driver for Linux"
 arch=('i686' 'x86_64')
